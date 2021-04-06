@@ -1,6 +1,6 @@
 # Apple Health Analysis
 
-Our iPhones and Apple Watches collect a plethora of valuable pieces of health data. This is an exciting oppurtunity to employ your data wrangling and vizualization skills. It is also a new and refreshing topic to work on since you will be gaining insights on your pertaining to your own health.
+Our iPhones and Apple Watches collect a plethora of valuable pieces of health data. This is an exciting oppurtunity to employ your data wrangling and vizualization skills. It is also a new and refreshing topic to work on since you will be gaining insights pertaining to your own health.
 
 ## How to get the data
 1. Open Health app on your iPhone
