@@ -1,6 +1,6 @@
 # Apple Health Analysis
 
-Out iphones and Apple Watches collect a plethora of valuable peices of health data. This is an exciting oppurtunity to employ your data wrangling and vizualization skills.
+Our iPhones and Apple Watches collect a plethora of valuable pieces of health data. This is an exciting oppurtunity to employ your data wrangling and vizualization skills. It is also a new and refreshing topic to work on since you will be gaining insights on your pertaining to your own health.
 
 ## How to get the data
 1. Open Health app on your iPhone
@@ -14,4 +14,8 @@ You can investigate how and why your BodyMass changes over the time. In this pro
 I found out that my avg heart rate dropped from 90+ bpm to 78 bpm. This is an eye opening hard proof of my fitness tranformation.
 ![HeartRateTimeSeries](https://github.com/Doumham-Armah/AppleHealthAnalysis/blob/main/HR.png)
 ![RestingHeartRateTimeSeries](https://github.com/Doumham-Armah/AppleHealthAnalysis/blob/main/RHR.png)
+
+Check Out the Jupyter notebook for more details!
+
+
 
