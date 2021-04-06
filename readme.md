@@ -13,5 +13,5 @@ You can investigate how and why your BodyMass changes over the time. In this pro
 ## Results 
 I found out that my avg heart rate dropped from 90+ bpm to 78 bpm. This is an eye opening hard proof of my fitness tranformation.
 ![HeartRateTimeSeries](https://github.com/Doumham-Armah/AppleHealthAnalysis/blob/main/HR.png)
-![RestingHeartRateTimeSeries](hhttps://github.com/Doumham-Armah/AppleHealthAnalysis/blob/main/RHR.png)
+![RestingHeartRateTimeSeries](https://github.com/Doumham-Armah/AppleHealthAnalysis/blob/main/RHR.png)
 
