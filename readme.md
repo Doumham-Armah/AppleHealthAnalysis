@@ -8,7 +8,7 @@ Our iPhones and Apple Watches collect a plethora of valuable pieces of health da
 3. Scroll down and tap on **Export All Health Data**
 
 ## Choose a variable that matters to you
-You can investigate how and why your BodyMass changes over the time. In this project I found out I only had 5 data points for my weight which meant I could not really work with my weight. Instead I chose to look at my **HeartRate** and **RestingHeartRate** since these are direct measures of a person's fitness level. That is, the fitter a person is the lower the avg heart rate. It was exciting especially gievn the fact that I started my weight loss journy on Nov 2020.
+You can investigate how and why your BodyMass changes over the time. In this project I found out I only had 5 data points for my weight which meant I could not really work with it. Instead I chose to look at my **HeartRate** and **RestingHeartRate** since these are direct measures of a person's fitness level. That is, the fitter a person is the lower the avg heart rate. It was exciting especially gievn the fact that I started my weight loss journy on Nov 2020.
 
 ## Results 
 I found out that my avg heart rate dropped from 90+ bpm to 78 bpm. This is an eye opening hard proof of my fitness tranformation.
